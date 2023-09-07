@@ -17,7 +17,10 @@ To get started with the Workout Map project, follow these steps:
 1.**Clone the Repository:**
 
 Clone this repository to your local machine using the following command:
-git clone https://github.com/yourusername/forkify.git
+```
+git clone https://github.com/yourusername/workout-map.git
+```
+
 Replace yourusername with your actual GitHub username.
 
 2.**Navigate to the Project Directory:**
