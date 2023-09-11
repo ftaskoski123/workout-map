@@ -18,10 +18,8 @@ To get started with the Workout Map project, follow these steps:
 
 Clone this repository to your local machine using the following command:
 ```
-git clone https://github.com/yourusername/workout-map.git
+git clone https://github.com/ftaskoski123/workout-map.git
 ```
-
-Replace yourusername with your actual GitHub username.
 
 2.**Navigate to the Project Directory:**
 
